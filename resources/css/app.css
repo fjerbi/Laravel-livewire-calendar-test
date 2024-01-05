@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.bg-custom-day-color {
+    background-color: #655C57;
+}
+.bg-custom-weekend-color{
+    background-color: #9C816C;
+}
